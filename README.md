@@ -1,1 +1,1 @@
-# Stock-Price-Prediction
+This project works to develop a prediction model that would work best for generalising well in predicting stock price predictions across various industries effectively helping in investment decisions. 
